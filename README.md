@@ -2,6 +2,7 @@ for local hosting use
 hostname=localhost
 user=root
 password=""
+FREDREFHKLKJHGFGJKJGFDFHK
 
 
 
